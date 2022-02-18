@@ -10,6 +10,6 @@
 
 
 
-| <a href="https://github.com/cynhwithcode/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=cynhwithcode&show_icons=true&include_all_commits=true&theme=graywhite_border=false" alt="Anurag's github stats" /></a> | <a href="https://github.com/cynhwithcode/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cynhwithcode&layout=compact&theme=graywhite_border=false" /></a> |
+| <a href="https://github.com/cynhwithcode/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=cynhwithcode&show_icons=true&include_all_commits=true&theme=graywhite_border=ture" alt="Anurag's github stats" /></a> | <a href="https://github.com/cynhwithcode/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cynhwithcode&layout=compact&theme=graywhite_border=true" /></a> |
 | ------------- | ------------- |
 
