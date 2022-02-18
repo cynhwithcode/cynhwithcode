@@ -1,5 +1,4 @@
 
-![header](https://capsule-render.vercel.app/api?type=transparent&color=000000&height=300&section=header&text=CYNH&nbsp;github%&fontSize=90)
 <p>
 <a href="https://codingshit.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Blog-000000?style=flat-square&logo=GitHub%20Sponsors&logoColor=white"/></a>
 </p>
