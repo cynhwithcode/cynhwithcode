@@ -4,7 +4,7 @@
 </p>
 
 <p>
- &nbsp; Hello! I'm <b>UIUX Designer</b> using Android/iOS/Web<br/>
+ &nbsp; 🤠Hello! I'm <b>UIUX Designer</b> using Android/iOS/Web�<br/>
 </p>
 
 
