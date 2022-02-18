@@ -3,7 +3,7 @@
 </p>
 
 <p>
-  👋&nbsp; Hey! I'm <b>UIUX Designer</b> using Android/iOS/Web ✨<br/> <br/><br/>
+  👋&nbsp; Hey! I'm <b>UIUX Designer</b> using Android/iOS/Web ✨<br/>
 </p>
 
 
