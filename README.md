@@ -9,5 +9,4 @@
 </p>
 
 <p>
-(https://github-readme-stats.vercel.app/api?username=cynhwithcode&show_icons=true&theme=default)
 </p>
