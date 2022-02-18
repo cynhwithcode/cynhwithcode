@@ -3,7 +3,7 @@
  <a href="https://mixset.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Blog-000000?style=flat-square&logo=Blogger&logoColor=white"/></a>
 </p>
 <p>
- &nbsp; 🤠Hello! I'm <b>UIUX Designer</b> using Android/iOS/Web�<br/>
+ &nbsp; 🤠Hello! I'm <b>UIUX Designer</b> using Android/iOS/Web<br/>
 </p>
 
 
