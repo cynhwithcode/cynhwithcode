@@ -1,5 +1,6 @@
 <p>
-  <a href="https://codingshit.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Blog-000000?style=flat-square&logo=GitHub%20Sponsors&logoColor=white"/></a>
+  [![Tech Blog] <a href="https://codingshit.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Blog-000000?style=flat-square&logo=GitHub%20Sponsors&logoColor=white"/></a>
+   [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white)](mailto:one.cynhwithcode@gmail.com)
 </p>
 
 <p>
