@@ -1,6 +1,6 @@
 
 <p>
-<a href="https://codingshit.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Blog-000000?style=flat-square&logo=GitHub%20Sponsors&logoColor=white"/></a>
+ <a href="https://blog.naver.com/koss0130130" target="_blank"><img src="https://img.shields.io/badge/Blog-000000?style=flat-square&logo=Blogger&logoColor=white"/>
 </p>
 
 <p>
