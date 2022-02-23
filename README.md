@@ -3,7 +3,7 @@
  <a href="https://cynh-archive.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Blog-000000?style=flat-square&logo=Blogger&logoColor=white"/></a>
 </p>
 <p>
- &nbsp; 🤠&nbsp;Hello !! &nbsp; I'm <b>UIUX Designer</b> using Android/iOS/Web&nbsp;<br/>
+ &nbsp; 🤠&nbsp;Hello !! &nbsp; I'm <b>UIUX Designer&nbsp;</b> using Android/iOS/Web&nbsp;<br/>
 </p>
 
 
