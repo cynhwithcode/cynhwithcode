@@ -1,9 +1,9 @@
 
 <p>
  <a href="https://cynh-archive.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Blog-000000?style=flat-square&logo=Blogger&logoColor=white"/></a>
-</p>&nbsp;
+</p>
 <p>
- &nbsp; 🤠&nbsp;Hello !! &nbsp; I'm <b>UIUX Designer&nbsp;</b> using Android/iOS/Web&nbsp;&nbsp;<br/>
+ <h2> <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966"><img src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" width="35" data-canonical-src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" style="max-width: 100%;"></a> Hi&nbsp; Its me ! CYNH&nbsp;🤠 </h2> &nbsp; I'm <b>UIUX Designer&nbsp;</b> using Android/iOS/Web&nbsp;&nbsp;<br/>
 </p>
 
 
