@@ -7,6 +7,13 @@
 </p>
 
 
+<a href = "https://api.gitofolio.com/portfolio/2417/2421"><img src = "https://api.gitofolio.com/portfoliocard/svg/2421?color=white" style="width:525.97px; height:auto; "/></a>
+
+
+
+
+
+
 ![Cynh's GitHub stats](https://github-readme-stats.vercel.app/api?username=cynhwithcode&theme=graywhite&show_icons=true)
 
 
