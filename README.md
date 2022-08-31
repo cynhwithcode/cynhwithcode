@@ -7,8 +7,7 @@
 </p>
 
 
-<a href = "https://api.gitofolio.com/portfolio/2417/2421"><img src = "https://api.gitofolio.com/portfoliocard/svg/2421?color=white" style="width:886.03px; height:auto; "/></a>
-
+<a href = "https://api.gitofolio.com/portfolio/2417/2421"><img src = "https://api.gitofolio.com/portfoliocard/svg/2421?color=white" style="width:353px; height:auto; "/></a>
 
 
 
