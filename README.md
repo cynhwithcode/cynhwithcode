@@ -13,7 +13,7 @@
   
   
   
- &nbsp; Its me ! CYNH&nbsp; </h2> &nbsp; I'm <b>UIUX Designer&nbsp;</b> using [ Android / iOS / Web ]<br/>
+ &nbsp; Its me, CYNH&nbsp; </h2> &nbsp; I'm <b>UIUX Designer&nbsp;</b> using [ Android / iOS / Web ]<br/>
 </p>
 
 
