@@ -6,7 +6,14 @@
 <p>
  <h2>&nbsp;<a target="_blank" rel="noopener noreferrer" href="https://i.giphy.com/media/GjLuAGAoazPSgg25NI/giphy.webp">
   <img src="https://i.giphy.com/media/GjLuAGAoazPSgg25NI/giphy.webp" width="100" data-canonical-src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" style="max-width: 100%;"></a> <br>
- &nbsp; Hi&nbsp; Its me ! CYNH&nbsp; </h2> &nbsp; I'm <b>UIUX Designer&nbsp;</b> using [ Android / iOS / Web ]<br/>
+  
+
+  
+  <img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=40&section=header&text=welcome%20!&fontSize=18&animation=twinkling&fontColor=42FF00" />
+  
+  
+  
+ &nbsp; Its me ! CYNH&nbsp; </h2> &nbsp; I'm <b>UIUX Designer&nbsp;</b> using [ Android / iOS / Web ]<br/>
 </p>
 
 
