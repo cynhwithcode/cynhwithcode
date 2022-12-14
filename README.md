@@ -9,7 +9,7 @@
   
 
   
-  <img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=40&section=header&text=welcome%20!&fontSize=18&animation=twinkling&fontColor=42FF00" />
+  <img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=40&section=header&text=welcome%20!&fontSize=18&animation=twinkling&fontColor=FC5555" />
   
   
   
