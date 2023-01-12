@@ -20,8 +20,8 @@
 
 
 
-
-![Cynh's GitHub stats](https://github-readme-stats.vercel.app/api?username=cynhwithcode&theme=graywhite&show_icons=true)
+<!-- 
+![Cynh's GitHub stats](https://github-readme-stats.vercel.app/api?username=cynhwithcode&theme=graywhite&show_icons=true) -->
 
 
 
